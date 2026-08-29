@@ -11,3 +11,7 @@ Test from behind the volume:
 3. Record whether gaze highlight disappears or the menu dismisses.
 
 Relevant console lines begin with `[Repro]`.
+
+## Demo video
+
+https://github.com/mesqueeb/PresentationAutoCloseInBackOfVolume/raw/main/PresentationComponentRepro_00-28_to_01-44.mp4
