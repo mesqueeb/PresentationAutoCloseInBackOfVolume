@@ -14,4 +14,4 @@ Relevant console lines begin with `[Repro]`.
 
 ## Demo video
 
-https://raw.githubusercontent.com/mesqueeb/PresentationAutoCloseInBackOfVolume/main/PresentationComponentRepro_00-28_to_01-44.mp4
+<video src="https://raw.githubusercontent.com/mesqueeb/PresentationAutoCloseInBackOfVolume/main/PresentationComponentRepro_00-28_to_01-44.mp4" controls muted></video>
