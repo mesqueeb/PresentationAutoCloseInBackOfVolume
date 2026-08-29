@@ -14,4 +14,4 @@ Relevant console lines begin with `[Repro]`.
 
 ## Demo video
 
-[▶ Watch the repro video](PresentationComponentRepro_00-28_to_01-44.mp4)
+[▶ Watch the repro video](PresentationComponentRepro_00-35_to_01-02.mp4)
