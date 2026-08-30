@@ -21,8 +21,8 @@ Both videos show:
 
 First video uses this prototype.
 
-![](https://github.com/user-attachments/assets/4c98640b-e90c-4774-b576-11727efcfa6e)
+![](https://github.com/user-attachments/assets/759d3767-e8ab-40fc-a639-3a67f7968f7f)
 
 Second video uses custom app code based on the same concepts, the issue is more clearly visible.
 
-![](https://github.com/user-attachments/assets/759d3767-e8ab-40fc-a639-3a67f7968f7f)
+![](https://github.com/user-attachments/assets/4c98640b-e90c-4774-b576-11727efcfa6e)
