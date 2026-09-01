@@ -1,3 +1,13 @@
+# Demo video
+
+- hand prevents button gaze
+- moving hand away restores button gaze
+- moving hand back force closes the presentation
+
+https://github.com/user-attachments/assets/481a0178-a4b4-4c91-badc-faaa11ad91d3
+
+
+
 # PresentationComponent hand-proximity reproduction
 
 Disposable visionOS 26 & 27 prototype for testing a `PresentationComponent` near the lower-back region of an otherwise empty volumetric window.
@@ -12,17 +22,3 @@ Test from behind the volume:
 
 Relevant console lines begin with `[Repro]`.
 
-## Demo video
-
-Both videos show:
-- hand prevents button gaze
-- moving hand away restores button gaze
-- moving hand back force closes the presentation
-
-First video uses this prototype.
-
-![](https://github.com/user-attachments/assets/759d3767-e8ab-40fc-a639-3a67f7968f7f)
-
-Second video uses custom app code based on the same concepts, the issue is more clearly visible.
-
-![](https://github.com/user-attachments/assets/4c98640b-e90c-4774-b576-11727efcfa6e)
